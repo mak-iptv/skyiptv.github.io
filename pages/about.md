@@ -20,12 +20,11 @@ permalink: /about/
 
 * GitHub：[@skyiptv](https://github.com/skyiptvcn)
 * LinkedIn：[@skyiptv](https://www.linkedin.com/company/skyiptv)
-* Blog: [{{ site.title }}]({{ site.url }})
-* 知乎: []()
+* Blog: [{{ SKY IPTV.Best China IPTV Service Provider}}]({{ https://www.skyiptv.club/blog }})
+* Facebook: [@skyiptvcn](https://www.facebook.com/sky.iptv.cn)
+* Twitter: [@skyiptvcn](https://www.twitter.com/skyiptvcn)
 
-## Skill Keywords
-
-#### Software Engineer Keywords
+## Products and Services Keywords
 <div class="btn-inline">
     {% for keyword in site.skill_software_keywords %}
     <button class="btn btn-outline" type="button">{{ keyword }}</button>
