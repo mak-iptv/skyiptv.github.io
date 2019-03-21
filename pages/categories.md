@@ -1,10 +1,10 @@
 ---
 layout: categories
 title: Categories
-description: 文章分类库
-keywords: 分类
+description: Best China IPTV Service Provider
+keywords: Categories
 comments: false
-menu: 分类
+menu: Categories
 permalink: /categories/
 ---
 
@@ -23,5 +23,3 @@ permalink: /categories/
 {% endfor %}
 </section>
 <!-- /section.content -->
-
-
