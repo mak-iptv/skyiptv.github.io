@@ -20,7 +20,7 @@ permalink: /about/
 
 * GitHub：[@skyiptv](https://github.com/skyiptvcn)
 * LinkedIn：[@skyiptv](https://www.linkedin.com/company/skyiptv)
-* Blog: [{{ SKY IPTV.Best China IPTV Service Provider}}]({{ https://www.skyiptv.club/blog }})
+* Blog: [SKY IPTV | Best China IPTV Service Provider](https://www.skyiptv.club/blog)
 * Facebook: [@skyiptvcn](https://www.facebook.com/sky.iptv.cn)
 * Twitter: [@skyiptvcn](https://www.twitter.com/skyiptvcn)
 
