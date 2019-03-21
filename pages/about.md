@@ -19,10 +19,12 @@ permalink: /about/
 ## Contact
 
 * GitHub：[@skyiptv](https://github.com/skyiptvcn)
-* LinkedIn：[@skyiptv](https://www.linkedin.com/company/skyiptv)
-* Blog: [SKY IPTV](https://www.skyiptv.club/blog)
 * Facebook: [@skyiptvcn](https://www.facebook.com/sky.iptv.cn)
 * Twitter: [@skyiptvcn](https://www.twitter.com/skyiptvcn)
+* LinkedIn：[@skyiptv](https://www.linkedin.com/company/skyiptv)
+* Website: [SKY IPTV](https://www.skyiptv.club)
+* Email: [@skyiptv](mailto:info@skyptv.club)
+* Blog: [SKY IPTV](https://www.skyiptv.club/blog)
 
 ## Products and Services Keywords
 <div class="btn-inline">
